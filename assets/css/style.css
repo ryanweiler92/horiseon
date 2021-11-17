@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,17 +59,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*main content style start*/
 .content {
     width: 75%;
     display: inline-block;
@@ -84,15 +78,27 @@ p {
     color: #ffffff;
 }
 
-.content img {
-    max-height: 200px;
-}
-
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+.content img {
+    max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/*main content style end*/
+
+/*aside benefit style start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +124,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*aside benefit style end*/
 
 footer {
     padding: 30px;
