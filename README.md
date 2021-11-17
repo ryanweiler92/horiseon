@@ -1,5 +1,12 @@
-# 01 HTML, CSS, and Git: Code Refactor
+## Purpose
+A website that previews the services of Horiseon.
 
-Horiseon home page created with semantic HTML elements and basic CSS. This page uses working in-page links. 
+## Built With
+* HTML
+* CSS
 
-This page can be accessed at: https://ryanweiler92.github.io/horiseon/
+## Website
+https://ryanweiler92.github.io/horiseon/#social-media-marketing
+
+## Contribution
+Made by [Ryan Weiler]
