@@ -9,7 +9,7 @@ A website that previews the services of Horiseon.
 https://ryanweiler92.github.io/horiseon/#social-media-marketing
 
 ## Screenshot
-![Horiseon Image](../assets/images/screenshot.jpg)
+![Horiseon Image](assets/images/screenshot.jpg)
 
 ## Contribution
 Made by [Ryan Weiler]
